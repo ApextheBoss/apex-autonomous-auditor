@@ -7,8 +7,5 @@
     "start": "node server.js",
     "audit": "node audit-pipeline.js"
   },
-  "dependencies": {
-    "hono": "^4.0.0",
-    "@hono/node-server": "^1.0.0"
-  }
+  "dependencies": {}
 }
