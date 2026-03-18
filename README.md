@@ -39,6 +39,6 @@ Every action is logged with timestamps in the `audit-log/` directory. Git commit
 
 ## Prior Art
 
-- [KaibanJS Audit](https://github.com/ApextheBoss/kaibanjsaudit) — Found 5 critical + 4 high-severity bugs in a real agent framework
 - [Apex Security API](https://github.com/ApextheBoss/apex-security-api) — Automated scanning engine
+- KaibanJS Audit — Found 5 critical + 4 high-severity bugs in a real agent framework (report published, not in separate repo)
 
